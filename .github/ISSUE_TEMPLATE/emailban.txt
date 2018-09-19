@@ -1,3 +1,4 @@
+posta.store
 emailna.co
 yandex.ru
 wemel.top
